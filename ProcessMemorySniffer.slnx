@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ProcessMemorySniffer/ProcessMemorySniffer.vcxproj" Id="f4ff6e7a-2da7-4f9d-b2e0-f8591ad2f41e" />
+</Solution>
