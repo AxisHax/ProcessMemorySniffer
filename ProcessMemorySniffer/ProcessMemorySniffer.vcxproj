@@ -128,11 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="ProcessMemorySniffer.cpp" />
     <ClCompile Include="ProcessQueryService.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ProcessHandle.hpp" />
     <ClInclude Include="ProcessInfo.hpp" />
+    <ClInclude Include="ProcessMemorySniffer.hpp" />
     <ClInclude Include="ProcessQueryService.hpp" />
     <ClInclude Include="Win32Error.hpp" />
   </ItemGroup>
